@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi! Here is **Xiangde Luo**, a 1st-year PhD student from [UESTC](http://www.zju.edu.cn/english/) majoring in medical image computing.
+I'm interested in annotation-efficient learning, such as semi-/weakly- supervised learning and Human-In-The-Loop.
+You can learn more about me from my **[personal website](http://luoxd1996.github.io)** and contact via **[email](mailto:luoxd1996@gmail.com)**.
 
 <!--
 **Luoxd1996/Luoxd1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
