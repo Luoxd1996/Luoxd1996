@@ -1,8 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Luoxd1996&count_private=true&show_icons=true&layout=compact&hide=prs&hide_title=true" height="120"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luoxd1996&layout=compact&exclude_repo=HDL-ZJU&hide_title=true&langs_count=4" height="120">
-
-Hi! Here is **Xiangde Luo**, a 1st-year PhD student from [UESTC](https://en.uestc.edu.cn) majoring in medical image computing.
-I'm interested in annotation-efficient learning, such as semi-/weakly- supervised learning and Human-In-The-Loop.
-You can learn more about me from my **[personal website](http://luoxd1996.github.io)** and contact via **[email](mailto:luoxd1996@gmail.com)**.
+### Hi there 👋
 
 <!--
 **Luoxd1996/Luoxd1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Luoxd1996's github stats](https://github-readme-stats.vercel.app/api?username=Luoxd1996&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
